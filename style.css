@@ -2,6 +2,10 @@
     background-color: rgb(198, 238, 238);
 }
 
+section {
+    text-align: center;
+}
+
 #title {
     margin-top: auto;
     padding: 5px,5px;
@@ -10,4 +14,25 @@
     font-size: 75px;
     color: rgb(243, 47, 148);
     
+}
+
+.board-container {
+    margin: auto;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    border: 5px;
+    border-color: rgb(243, 47, 148);
+}
+
+.restart-button {
+    margin: auto;
+    padding: 15px, 15px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    background-color: rgb(243, 47, 148);
+    width: 120px;
+    height: 50px;
 }
