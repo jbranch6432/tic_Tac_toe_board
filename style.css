@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(198, 238, 238);
+}
+
+#title {
+    margin-top: auto;
+    padding: 5px,5px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    color: rgb(243, 47, 148);
+    
+}
